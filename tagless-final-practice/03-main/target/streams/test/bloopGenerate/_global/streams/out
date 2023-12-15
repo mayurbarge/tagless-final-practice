@@ -1,0 +1,4 @@
+[debug] [main-test] Classpath dependencies List(interpreters, programs)
+[debug] [main-test] Dependencies from configurations List(main)
+[debug] Bloop wrote the configuration of project 'main-test' to '/Users/mayur/MyWorkspace/tagless-final-practice/.bloop/main-test.json'
+[success] Generated .bloop/main-test.json

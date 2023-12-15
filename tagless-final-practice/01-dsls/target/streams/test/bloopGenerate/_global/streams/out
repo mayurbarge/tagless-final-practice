@@ -1,0 +1,4 @@
+[debug] [dsls-test] Classpath dependencies List()
+[debug] [dsls-test] Dependencies from configurations List(dsls)
+[debug] Bloop wrote the configuration of project 'dsls-test' to '/Users/mayur/MyWorkspace/tagless-final-practice/.bloop/dsls-test.json'
+[success] Generated .bloop/dsls-test.json

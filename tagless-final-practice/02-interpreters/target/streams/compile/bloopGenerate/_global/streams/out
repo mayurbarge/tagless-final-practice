@@ -1,0 +1,4 @@
+[debug] [interpreters] Classpath dependencies List(dsls)
+[debug] [interpreters] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'interpreters' to '/Users/mayur/MyWorkspace/tagless-final-practice/.bloop/interpreters.json'
+[success] Generated .bloop/interpreters.json
